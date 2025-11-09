@@ -65,4 +65,4 @@ The goal of this project is to analyze supermarket sales data and generate meani
   **Bar Chart**:-     Cost of Goods Sold by Product Line             
   **Line Chart**:-    Quantity & Gross Income trend over time        
   **Table**:-         Avg & Total quantity per product line          
-  **slicerd**:-       Date & Product line
+  **slicer**:-        Date & Product line
