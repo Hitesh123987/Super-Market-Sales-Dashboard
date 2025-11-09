@@ -11,7 +11,7 @@ The goal of this project is to analyze supermarket sales data and generate meani
 2️⃣ Data Cleaning & Quality Check:  
    Using Power Query:
    Enabled Column Quality, Column Distribution, Column Profile
-   Switched profiling mode to Entire Dataset
+   Switched profiling mode to Entire Dataset       
    Verified: ✅ No missing values ✅ No errors ✅ Proper data types
 
 3️⃣ Data Modeling:   
