@@ -5,24 +5,24 @@ Power BI dashboard for Supermarket Sales analysis featuring interactive slicers,
 The goal of this project is to analyze supermarket sales data and generate meaningful business insights related to product performance, customer behavior, revenue, profit, and operational efficiency.
 
 # Steps Followed
-1️⃣ Data Import
+1️⃣ Data Import:  
     Loaded the CSV dataset into Power BI Desktop
 
-2️⃣ Data Cleaning & Quality Check
+2️⃣ Data Cleaning & Quality Check:  
    Using Power Query:
    Enabled Column Quality, Column Distribution, Column Profile
    Switched profiling mode to Entire Dataset
    Verified: ✅ No missing values ✅ No errors ✅ Proper data types
 
-3️⃣ Data Modeling
+3️⃣ Data Modeling: 
    Corrected data types (Date, Text, Decimal)
    Created DAX measures to calculate KPIs
 
-4️⃣ Dashboard Design
+4️⃣ Dashboard Design: 
    Applied dark background theme
    Added slicers for Date and Product Line
 
-5️⃣ Publishing
+5️⃣ Publishing: 
    Report published to Power BI Service
    Dashboard screenshot exported and added
 
