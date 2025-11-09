@@ -14,38 +14,38 @@ The goal of this project is to analyze supermarket sales data and generate meani
    Switched profiling mode to Entire Dataset
    Verified: ✅ No missing values ✅ No errors ✅ Proper data types
 
-3️⃣ Data Modeling: 
+3️⃣ Data Modeling:   
    Corrected data types (Date, Text, Decimal)
    Created DAX measures to calculate KPIs
 
-4️⃣ Dashboard Design: 
+4️⃣ Dashboard Design:    
    Applied dark background theme
    Added slicers for Date and Product Line
 
-5️⃣ Publishing: 
+5️⃣ Publishing:      
    Report published to Power BI Service
    Dashboard screenshot exported and added
 
 # DAX Measures
-  1. TOTAL QUANTITY:
+  1. TOTAL QUANTITY:       
            Total Quantity = SUM('Sales'[Quantity])
 
-  2. AVERAGE QUANTITY:
+  2. AVERAGE QUANTITY:       
             Average Quantity = AVERAGE('Sales'[Quantity])
    
-  3. AVERAGE GROSS INCOME:
+  3. AVERAGE GROSS INCOME:        
             Average Gross Income = AVERAGE('Sales'[gross income])
    
-  4. TOTAL COST OF GOOD SOLD:
+  4. TOTAL COST OF GOOD SOLD:       
             Total COGS = SUM('Sales'[cogs])
    
-  5. AVERAGE COST OF GOODS SOLD:
+  5. AVERAGE COST OF GOODS SOLD:        
             Average COGS = AVERAGE('Sales'[cogs])
    
-  6. PROFIT:
+  6. PROFIT:          
             Profit = SUM('Sales'[gross income])
 
-  7. Top Selling Product Line:
+  7. Top Selling Product Line:         
      Top Product Line =
           VAR topItem =
             TOPN(
