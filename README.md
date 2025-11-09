@@ -58,7 +58,7 @@ The goal of this project is to analyze supermarket sales data and generate meani
 
 # VISUALS
 
-  **Card KPIs**:-     Total Quantity, Average COGS, Top Product Line 
+  **Card KPIs**:-     Total Quantity, Average COGS, Top Product Line                       
   **Tree Map**:-      Average Quantity by Payment Method             
   **Donut Charts**:-  Gender & Member-wise customer split            
   **Bar Chart**:-     Profit by Branch                               
