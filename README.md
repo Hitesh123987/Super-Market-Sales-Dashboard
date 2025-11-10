@@ -66,3 +66,12 @@ The goal of this project is to analyze supermarket sales data and generate meani
   **Line Chart**:-    Quantity & Gross Income trend over time        
   **Table**:-         Avg & Total quantity per product line          
   **slicer**:-        Date & Product line
+
+# Key Insights
+
+ Electronic Accessories is the highest selling product line
+ Branch C generates the highest profit
+ COGS highest for Home & Lifestyle and Sports & Travel
+ Customer split is almost equal: Male vs Female
+ Payment preference leans toward E-Wallet & Credit Card
+ Mandalay shows lower sales – scope for promotional campaigns
