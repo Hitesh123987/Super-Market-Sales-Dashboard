@@ -69,9 +69,9 @@ The goal of this project is to analyze supermarket sales data and generate meani
 
 # Key Insights
 
- Electronic Accessories is the highest selling product line
- Branch C generates the highest profit
- COGS highest for Home & Lifestyle and Sports & Travel
- Customer split is almost equal: Male vs Female
- Payment preference leans toward E-Wallet & Credit Card
- Mandalay shows lower sales – scope for promotional campaigns
+1. Electronic Accessories is the highest selling product line.              
+2. Branch C generates the highest profit.        
+3. COGS highest for Home & Lifestyle and Sports & Travel.          
+4. Customer split is almost equal: Male vs Female.            
+5. Payment preference leans toward E-Wallet & Credit Card.            
+6. Mandalay shows lower sales – scope for promotional campaigns.              
